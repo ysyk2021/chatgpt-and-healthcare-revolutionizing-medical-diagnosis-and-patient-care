@@ -3,11 +3,6 @@ How AI and Chatbots can Improve Medical Diagnosis and Patient Care
 
 AI and chatbots have the potential to revolutionize the healthcare industry by improving medical diagnosis and patient care. In this chapter, we will explore the role of AI and chatbots in healthcare and how they can improve patient outcomes.
 
-What is AI?
------------
-
-Artificial intelligence (AI) refers to the ability of machines to perform tasks that would typically require human intelligence, such as understanding natural language, recognizing patterns, and making decisions based on data.
-
 How Can AI Improve Medical Diagnosis?
 -------------------------------------
 
