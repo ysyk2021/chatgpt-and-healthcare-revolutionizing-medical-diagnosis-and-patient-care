@@ -1,5 +1,3 @@
-What is ChatGPT?
-==================================================
 
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) and deep learning algorithms to understand and respond to human language. It was developed by OpenAI, a research organization dedicated to advancing artificial intelligence in a safe and beneficial way.
 

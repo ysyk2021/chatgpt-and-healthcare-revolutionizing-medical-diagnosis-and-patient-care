@@ -1,5 +1,3 @@
-How ChatGPT can be used for Medical Diagnosis and Patient Care
-================================================================================================
 
 ChatGPT is an AI-powered chatbot that uses natural language processing (NLP) to understand and respond to human language. It has the potential to revolutionize healthcare delivery by improving medical diagnosis and patient care. In this chapter, we will explore how ChatGPT can be used for medical diagnosis and patient care.
 

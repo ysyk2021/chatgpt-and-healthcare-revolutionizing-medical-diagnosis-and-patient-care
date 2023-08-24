@@ -1,5 +1,3 @@
-Chapter 1: Basics of Healthcare Industry
-========================================
 
 The healthcare industry is a vital sector that focuses on the prevention, diagnosis, treatment, and management of diseases and illnesses. In this chapter, we will explore the basics of the healthcare industry, including different types of healthcare services and the importance of medical diagnosis and patient care.
 

@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 The healthcare industry is undergoing a significant transformation, driven by advances in technology and changing patient expectations. In this book, we will explore the potential of artificial intelligence (AI) and natural language processing (NLP) to revolutionize medical diagnosis and patient care.
 

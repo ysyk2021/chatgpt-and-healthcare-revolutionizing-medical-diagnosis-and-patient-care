@@ -1,5 +1,3 @@
-Factors Affecting Healthcare Industry
-===================================================================================
 
 The healthcare industry is a complex and rapidly evolving sector that faces several challenges. In this chapter, we will explore some of the factors that contribute to these challenges.
 

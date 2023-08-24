@@ -1,5 +1,3 @@
-Introduction to AI and Chatbots
-=====================================================================================
 
 Artificial intelligence (AI) and chatbots have the potential to revolutionize the healthcare industry by improving medical diagnosis and patient care. In this chapter, we will provide an introduction to AI and chatbots, including their features and capabilities.
 

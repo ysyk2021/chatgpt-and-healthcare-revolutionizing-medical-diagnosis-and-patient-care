@@ -1,5 +1,3 @@
-Features and Capabilities of ChatGPT
-======================================================================
 
 ChatGPT is a cutting-edge AI-powered chatbot that has the potential to revolutionize healthcare delivery. In this chapter, we will explore the features and capabilities of ChatGPT.
 

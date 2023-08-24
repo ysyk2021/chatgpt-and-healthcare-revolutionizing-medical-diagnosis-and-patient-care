@@ -1,5 +1,3 @@
-Emerging Trends and Challenges in Healthcare Industry and ChatGPT
-========================================================================================================================
 
 ChatGPT has the potential to revolutionize healthcare delivery by improving medical diagnosis and patient care. In this chapter, we will explore emerging trends and challenges in the healthcare industry and ChatGPT.
 

@@ -1,5 +1,3 @@
-Different Types of Healthcare Services
-================================================================================
 
 The healthcare industry provides a wide range of services to promote and maintain the health and wellbeing of individuals and communities. In this chapter, we will explore the different types of healthcare services that are available.
 

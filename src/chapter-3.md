@@ -1,5 +1,3 @@
-Chapter 2: Challenges in Healthcare Industry
-============================================
 
 The healthcare industry faces several challenges that impact medical diagnosis and patient care. In this chapter, we will explore some of the factors affecting the healthcare industry, common challenges faced by healthcare providers and patients, and the impact of these challenges on medical diagnosis and patient care.
 

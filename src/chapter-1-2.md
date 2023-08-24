@@ -1,5 +1,3 @@
-Explanation of Healthcare Industry and Its Importance
-===================================================================
 
 The healthcare industry is a vital sector that plays a critical role in promoting and maintaining the health and wellbeing of individuals and communities. It encompasses a wide range of services, including primary care, specialty care, diagnostic testing, rehabilitation services, palliative care, and long-term care.
 

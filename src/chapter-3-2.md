@@ -1,5 +1,3 @@
-Common challenges faced by healthcare providers and patients
-==========================================================================================================
 
 The healthcare industry faces several challenges that impact both healthcare providers and patients. In this chapter, we will explore some of the most common challenges faced by these two groups.
 

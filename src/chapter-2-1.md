@@ -1,5 +1,3 @@
-Definition of Healthcare Industry
-===========================================================================
 
 The healthcare industry is a vast and complex sector that includes a wide range of organizations, professionals, and services involved in the provision of healthcare. In this chapter, we will explore the definition of the healthcare industry and its various components.
 

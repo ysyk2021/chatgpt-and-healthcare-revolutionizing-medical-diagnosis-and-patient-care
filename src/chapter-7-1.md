@@ -1,5 +1,3 @@
-Potential Advancements in Healthcare Industry with ChatGPT
-=================================================================================================================
 
 ChatGPT has the potential to revolutionize healthcare delivery by improving medical diagnosis and patient care. In this chapter, we will explore the future of the healthcare industry with ChatGPT and potential advancements that could be made.
 

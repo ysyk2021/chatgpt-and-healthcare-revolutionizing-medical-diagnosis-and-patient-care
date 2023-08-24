@@ -1,5 +1,3 @@
-Importance of Medical Diagnosis and Patient Care
-==========================================================================================
 
 Healthcare is a vital industry that plays an important role in maintaining the wellbeing of individuals and communities. In this chapter, we will explore the basics of the healthcare industry, including the importance of medical diagnosis and patient care.
 

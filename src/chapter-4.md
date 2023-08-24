@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Healthcare
-====================================================
 
 Introduction to AI and chatbots
 -------------------------------
