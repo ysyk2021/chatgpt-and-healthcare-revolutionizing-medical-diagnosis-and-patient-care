@@ -1,5 +1,4 @@
-Chapter 7: Factors Affecting the Healthcare Industry
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The healthcare industry is influenced by various factors that shape its dynamics, operations, and ability to provide quality care. Understanding these factors is crucial for harnessing the potential of ChatGPT and achieving meaningful advancements in medical diagnosis and patient care. This chapter explores the key factors that impact the healthcare industry.
 

@@ -1,5 +1,4 @@
-Chapter: Different Types of Healthcare Services
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of healthcare services available within the healthcare industry. We will discuss the characteristics, objectives, and settings of each type, highlighting their unique roles in revolutionizing medical diagnosis and patient care.
 

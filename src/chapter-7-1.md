@@ -1,5 +1,4 @@
-Chapter: Potential Advancements in the Healthcare Industry with ChatGPT
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that ChatGPT, an AI language model, can bring to the healthcare industry. We will discuss how ChatGPT can be utilized to improve medical research, streamline administrative tasks, enhance telemedicine, and facilitate data analysis, ultimately revolutionizing the way healthcare is delivered and experienced.
 

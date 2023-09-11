@@ -1,5 +1,4 @@
-Chapter: Best Practices for Using ChatGPT in Improving Medical Diagnosis and Patient Care
-=========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for utilizing ChatGPT in the healthcare industry to enhance medical diagnosis and improve patient care. While AI technologies like ChatGPT offer great potential, it is important to implement them responsibly and effectively to ensure accurate and reliable outcomes.
 

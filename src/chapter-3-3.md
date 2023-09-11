@@ -1,5 +1,4 @@
-Chapter 5: Impact of Challenges on Medical Diagnosis and Patient Care
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of ChatGPT and its adoption in healthcare settings for medical diagnosis and patient care comes with its own set of challenges. These challenges can have both positive and negative impacts on the way healthcare professionals leverage this technology to improve patient outcomes. In this chapter, we will explore the various challenges and their implications.
 

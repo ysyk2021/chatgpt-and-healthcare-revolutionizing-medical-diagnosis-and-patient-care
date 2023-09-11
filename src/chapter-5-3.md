@@ -1,5 +1,4 @@
-Chapter: ChatGPT and its Role in Medical Diagnosis and Patient Care
-===================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential of ChatGPT, an AI language model, in revolutionizing medical diagnosis and patient care. We will discuss how ChatGPT can be utilized in healthcare settings to improve diagnostic accuracy, enhance patient communication, and support healthcare professionals in delivering quality care.
 

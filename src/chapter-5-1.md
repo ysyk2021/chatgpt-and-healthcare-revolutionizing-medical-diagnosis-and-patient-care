@@ -1,5 +1,4 @@
-What is ChatGPT?
-================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is an advanced AI language model that has gained significant attention for its potential to revolutionize medical diagnosis and patient care. Developed by OpenAI, ChatGPT builds upon the foundation of the powerful GPT-3.5 language model, specifically designed for engaging in human-like conversations.
 

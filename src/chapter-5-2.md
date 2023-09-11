@@ -1,5 +1,4 @@
-Chapter: Features and Capabilities of ChatGPT
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the features and capabilities of ChatGPT, an advanced AI language model. We will delve into its natural language understanding, generation abilities, contextual understanding, flexibility, and limitations, shedding light on how these characteristics make ChatGPT a powerful tool in revolutionizing medical diagnosis and patient care.
 

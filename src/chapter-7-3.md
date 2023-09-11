@@ -1,5 +1,4 @@
-Conclusion and Future Outlook
-=============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we have explored the potential of ChatGPT and other AI language models in revolutionizing medical diagnosis and patient care. We have discussed the emerging trends and challenges in the healthcare industry and their intersection with ChatGPT. As we conclude, let us reflect on the key takeaways from this book and the future outlook.
 

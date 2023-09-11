@@ -1,5 +1,4 @@
-Chapter: Benefits of Using AI and Chatbots for the Healthcare Industry
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the numerous benefits of using Artificial Intelligence (AI) and chatbots in the healthcare industry. These technologies have the potential to revolutionize medical diagnosis and patient care, delivering improved outcomes and enhancing the overall healthcare experience.
 

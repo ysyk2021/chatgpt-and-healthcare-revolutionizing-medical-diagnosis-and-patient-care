@@ -1,5 +1,4 @@
-Chapter: Case Studies of Healthcare Providers that have Successfully Implemented ChatGPT in their Services
-==========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore case studies of healthcare providers who have successfully implemented ChatGPT in their services. These providers have leveraged the power of ChatGPT to improve medical diagnosis, enhance patient care, and increase operational efficiency.
 

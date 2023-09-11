@@ -1,5 +1,4 @@
-Chapter: How AI and Chatbots can Improve Medical Diagnosis and Patient Care
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) and chatbots can revolutionize medical diagnosis and improve patient care. These technologies offer immense potential to enhance accuracy, accessibility, and efficiency in healthcare delivery.
 

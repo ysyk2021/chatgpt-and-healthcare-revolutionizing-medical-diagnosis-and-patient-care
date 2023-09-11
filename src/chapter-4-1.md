@@ -1,5 +1,4 @@
-Chapter: Introduction to AI and Chatbots
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and chatbots, exploring their significance in healthcare and their potential to revolutionize medical diagnosis and patient care.
 

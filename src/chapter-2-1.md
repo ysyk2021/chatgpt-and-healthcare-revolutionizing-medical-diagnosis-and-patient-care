@@ -1,5 +1,4 @@
-Chapter: Definition of the Healthcare Industry
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the healthcare industry. We will explore its scope, components, and the various sectors encompassed within this vast and critical field.
 
